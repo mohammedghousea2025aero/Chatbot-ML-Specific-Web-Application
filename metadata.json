@@ -1,0 +1,9 @@
+{
+  "name": "ML Assistant",
+  "description": "Domain-Specific AI Chatbot for Machine Learning education, algorithms, and concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
